@@ -1,0 +1,23 @@
+{
+  "name": "typo-api",
+  "version": "1.0.0",
+  "description": "API written with Node.js for Typo Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "devStart": "nodemon server.js"
+  },
+  "author": "anilasimbilen",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mongoose": "^5.9.6",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
