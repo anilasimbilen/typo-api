@@ -1,7 +1,12 @@
+
 # typo-api
 Node.js API for Typo Game
+	Installation:
+	
+    `npm install`
 
-npm install
-npm start
+  Starting:
+
+    npm start
 
 
